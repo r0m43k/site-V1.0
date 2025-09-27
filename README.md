@@ -1,2 +1,2 @@
-# Front-End-asssignments11
-My first web application
+First Frontend practice task
+My first project for web application
